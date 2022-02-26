@@ -1,2 +1,5 @@
 # Practicum by Yandex Projects
-  The portfolio contains projects completed while enrolled in Practicum's Data Science professional training program.
+  This portfolio contains projects completed while enrolled in Practicum's Data Science professional training program.
+
+| Project Name | Project Description | Technical Skills|
+|--------------|---------------------|-----------------|
