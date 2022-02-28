@@ -8,9 +8,9 @@
 | 3 - Statistical Data Analysis | Telecom Plan Analysis | Determine which prepaid plan makes more revenue for the company. Analyze customer behavior to help the marketing team adjust the advertising budget | Python, Numpy, SciPy, Matplotlib |
 | 4 - Integrated Project 1 | Online Gamestore Analysis | Identify patterns that will determine whether a game will succeed or not, allowing to spot potential winners and plan advertising campaigns. | Python, Pandas, SciPy, Seaborn, Matplotlib |
 | 5 - Data Collection and Storage (SQL) | Ride Share Analysis | Find patterns for a new ride-sharing company. Analyze passenger preferences and the impact of external factors on rides. | SQL, Python, Matplotlib |
-| 6 - Introduction to Machine Learning | Machine Learning for Recommmending a Phone Plan | Develope a model to analyze customers behavior to recommend a new phone plan. | 
-| 7 - Supervised Learning |
-| 8 - Machine Learning in Business |
+| 6 - Introduction to Machine Learning | Phone Plan Recommender | Develope a model to analyze customers behavior to recommend a new phone plan. | Python, Scikit-learn, Pandas
+| 7 - Supervised Learning | Customer Churn Prediction | Determine whether a customer will leave a bank soon based on past behavior. | Seaborn, Scikit-learn, Pandas |
+| 8 - Machine Learning in Business | 
 | 9 - Integrated Project 2 |
 | 10 - Linear Algebra |
 | 11 - Numerical Methods |
