@@ -10,14 +10,14 @@
 | 5 - Data Collection and Storage (SQL) | [Ride Share Analysis](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Ride%20Share%20Analysis/Ride%20Share%20Analysis.ipynb) | Find patterns for a new ride-sharing company. Analyze passenger preferences and the impact of external factors on rides. | SQL, Python, Matplotlib |
 | 6 - Introduction to Machine Learning | [Phone Plan Recommender](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Phone%20Plan%20Recommender/Phone%20Plan%20Recommender.ipynb) | Develope a model to analyze customers behavior to recommend a new phone plan. | Python, Scikit-learn, Pandas
 | 7 - Supervised Learning | [Predict Bank Churn](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Bank%20Churn/Predict%20Bank%20Churn.ipynb) | Determine whether a customer will leave a bank soon based on past behavior. | Seaborn, Scikit-learn, Pandas |
-| 8 - Machine Learning in Business |  | Determine the highest profit out of three selected regions for an oil company. | Python, Scikit-learn, Bootstrapping,
-| 9 - Integrated Project 2 |
-| 10 - Linear Algebra |
-| 11 - Numerical Methods |
-| 12 - Time Series |
-| 13 - Machine Learning for Texts |
-| 14 - Computer Vision |
-| 15 - Final Project | 
+| 8 - Machine Learning in Business | [Predict Oil Company Profit](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Oil%20Company%20Profit/Predict%20Oil%20Company%20Profit.ipynb) | Determine the highest profit out of three selected regions for an oil company. | Python, Scikit-learn, Bootstrapping |
+| 9 - Integrated Project 2 | [Gold Extraction](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Gold%20Extraction/Gold%20Extraction.ipynb) |
+| 10 - Linear Algebra | [Predict Insurance Benefits](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Insurance%20Benefits/Predict%20Insurance%20Benefits.ipynb) |
+| 11 - Numerical Methods | [Predict Vehicle Pricing](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Vehicle%20Pricing/Predict%20Vehicle%20Pricing.ipynb) |
+| 12 - Time Series | [Predict Taxi Orders](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Taxi%20Orders/Predict%20Taxi%20Orders.ipynb) |
+| 13 - Machine Learning for Texts | [Movie Review Classifier](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Movie%20Review%20Classifier/Movie%20Review%20Classifier.ipynb) |
+| 14 - Computer Vision | [Evaluate Customer Age](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Evaluate%20Customer%20Age/Evaluate%20Customer%20Age.ipynb) |
+| 15 - Final Project | [Telecom Client Churn Forecast](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Telecom%20Client%20Churn%20Forcasting/Telecom%20Client%20Churn%20Forecasting.ipynb) |
 
 
 
