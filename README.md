@@ -11,13 +11,13 @@
 | 6 - Introduction to Machine Learning | [Phone Plan Recommender](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Phone%20Plan%20Recommender/Phone%20Plan%20Recommender.ipynb) | Develope a model to analyze customers behavior to recommend a new phone plan. | Python, Scikit-learn, Pandas
 | 7 - Supervised Learning | [Predict Bank Churn](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Bank%20Churn/Predict%20Bank%20Churn.ipynb) | Determine whether a customer will leave a bank soon based on past behavior. | Seaborn, Scikit-learn, Pandas |
 | 8 - Machine Learning in Business | [Predict Oil Company Profit](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Oil%20Company%20Profit/Predict%20Oil%20Company%20Profit.ipynb) | Determine the highest profit out of three selected regions for an oil company. | Python, Scikit-learn, Bootstrapping |
-| 9 - Integrated Project 2 | [Gold Extraction](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Gold%20Extraction/Gold%20Extraction.ipynb) |
-| 10 - Linear Algebra | [Predict Insurance Benefits](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Insurance%20Benefits/Predict%20Insurance%20Benefits.ipynb) |
-| 11 - Numerical Methods | [Predict Vehicle Pricing](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Vehicle%20Pricing/Predict%20Vehicle%20Pricing.ipynb) |
-| 12 - Time Series | [Predict Taxi Orders](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Taxi%20Orders/Predict%20Taxi%20Orders.ipynb) |
-| 13 - Machine Learning for Texts | [Movie Review Classifier](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Movie%20Review%20Classifier/Movie%20Review%20Classifier.ipynb) |
-| 14 - Computer Vision | [Evaluate Customer Age](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Evaluate%20Customer%20Age/Evaluate%20Customer%20Age.ipynb) |
-| 15 - Final Project | [Telecom Client Churn Forecast](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Telecom%20Client%20Churn%20Forcasting/Telecom%20Client%20Churn%20Forecasting.ipynb) |
+| 9 - Integrated Project 2 | [Gold Extraction](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Gold%20Extraction/Gold%20Extraction.ipynb) | Use machine learning to predict the amount of gold extracted from gold ore. | Python, Scikit-learn, Seaborn, Matplotlib |
+| 10 - Linear Algebra | [Predict Insurance Benefits](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Insurance%20Benefits/Predict%20Insurance%20Benefits.ipynb) | Solve several tasks for an insurance agency using machine learning. | Scikit-learn, Linear Algebra, k-Nearest Neighbors |
+| 11 - Numerical Methods | [Predict Vehicle Pricing](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Vehicle%20Pricing/Predict%20Vehicle%20Pricing.ipynb) | Develope a model to predict the market value of a car. | Python, CatBoost, LightGBM, XGBoost
+| 12 - Time Series | [Predict Taxi Orders](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Taxi%20Orders/Predict%20Taxi%20Orders.ipynb) | Predict the amount of taxi orders for the next hour based on historical data at airports. | Time Series Analysis, CatBoost, LightGBM, XGBoost |
+| 13 - Machine Learning for Texts | [Movie Review Classifier](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Movie%20Review%20Classifier/Movie%20Review%20Classifier.ipynb) | Develope a model to detect postive and negative movie reviews. | Seaborn, LightGBM, spaCy, TF-IDF, NLTK |
+| 14 - Computer Vision | [Evaluate Customer Age](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Evaluate%20Customer%20Age/Evaluate%20Customer%20Age.ipynb) | 
+| 15 - Final Project | [Telecom Client Churn Forecast] |
 
 
 
