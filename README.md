@@ -3,7 +3,7 @@
 
 | Sprint      | Project Name        | Project Description    | Technical Skills        |
 |-------------|---------------------|------------------------|-------------------------|
-| 1 - Preprocessing | Borrower Risk Analysis | Determine the risk of a customer defaulting on a loan. | Python, NLTK, WordNetLemmatizer, SnowballStemmer|
+| 1 - Preprocessing | [Borrower Risk Analysis](https://github.com/AlexisDoxey/Data-Science-Portfolio/tree/main/Borrower%20Risk%20Analysis) | Determine the risk of a customer defaulting on a loan. | Python, NLTK, WordNetLemmatizer, SnowballStemmer|
 | 2 - Exploratory Data Analysis | Car Sales Research | Use exploratory data analysis to determine which factors influence the price of a vehicle. | Python, Matplotlib |
 | 3 - Statistical Data Analysis | Telecom Plan Analysis | Determine which prepaid plan makes more revenue for the company. Analyze customer behavior to help the marketing team adjust the advertising budget | Python, Numpy, SciPy, Matplotlib |
 | 4 - Integrated Project 1 | Online Gamestore Analysis | Identify patterns that will determine whether a game will succeed or not, allowing to spot potential winners and plan advertising campaigns. | Python, Pandas, SciPy, Seaborn, Matplotlib |
