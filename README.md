@@ -10,7 +10,7 @@
 | 5 - Data Collection and Storage (SQL) | Ride Share Analysis | Find patterns for a new ride-sharing company. Analyze passenger preferences and the impact of external factors on rides. | SQL, Python, Matplotlib |
 | 6 - Introduction to Machine Learning | Phone Plan Recommender | Develope a model to analyze customers behavior to recommend a new phone plan. | Python, Scikit-learn, Pandas
 | 7 - Supervised Learning | Customer Churn Prediction | Determine whether a customer will leave a bank soon based on past behavior. | Seaborn, Scikit-learn, Pandas |
-| 8 - Machine Learning in Business | 
+| 8 - Machine Learning in Business | Oil Company Profit Prediction | Determine the highest profit out of three selected regions for an oil company. | Python, Scikit-learn, Bootstrapping,
 | 9 - Integrated Project 2 |
 | 10 - Linear Algebra |
 | 11 - Numerical Methods |
