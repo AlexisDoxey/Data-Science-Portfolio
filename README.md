@@ -17,7 +17,7 @@
 | 12 - Time Series | [Predict Taxi Orders](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Predict%20Taxi%20Orders/Predict%20Taxi%20Orders.ipynb) | Predict the amount of taxi orders for the next hour based on historical data at airports. | Time Series Analysis, CatBoost, LightGBM, XGBoost |
 | 13 - Machine Learning for Texts | [Movie Review Classifier](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Movie%20Review%20Classifier/Movie%20Review%20Classifier.ipynb) | Develope a model to detect postive and negative movie reviews. | Seaborn, LightGBM, spaCy, TF-IDF, NLTK |
 | 14 - Computer Vision | [Evaluate Customer Age](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Evaluate%20Customer%20Age/Evaluate%20Customer%20Age.ipynb) | Use computer vision methods to determine the age of customers in a supermarket chain. | Tensorflow, Matplotlib |
-| 15 - Final Project | [Telecom Client Churn Forecasting](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Telecom%20Client%20Churn%20Forcasting/Telecom%20Client%20Churn%20Forecasting.ipynb) | Use machine learning to forcast churn of clients. | Python, Scikit-learn, Seaborn, XGBoost, CatBoost, LightGBM |
+| 15 - Final Project | [Telecom Client Churn Forecasting](https://github.com/AlexisDoxey/Data-Science-Portfolio/blob/main/Telecom%20Client%20Churn%20Forecasting/Telecom%20Client%20Churn%20Forecasting.ipynb) | Use machine learning to forcast churn of clients. | Python, Scikit-learn, Seaborn, XGBoost, CatBoost, LightGBM |
 
 
 
